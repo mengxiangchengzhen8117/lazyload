@@ -1,0 +1,17 @@
+{
+  "name": "lazyload",
+  "version": "0.1.0",
+  "description": "图片懒加载",
+  "author": "wzz",
+  "license": "MIT",
+  "main": "lib/lazyload.umd.js",
+  "module": "lib/lazyload.es.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
